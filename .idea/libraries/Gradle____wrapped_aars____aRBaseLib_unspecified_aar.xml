@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __wrapped_aars__::aRBaseLib:unspecified@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aRBaseLib/build/.transforms/5a410d65f5fd5f608ef39d4936e93660/transformed/aRBaseLib-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/aRBaseLib/build/.transforms/5a410d65f5fd5f608ef39d4936e93660/transformed/aRBaseLib-release/res" />
+      <root url="file://$PROJECT_DIR$/aRBaseLib/build/.transforms/5a410d65f5fd5f608ef39d4936e93660/transformed/aRBaseLib-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

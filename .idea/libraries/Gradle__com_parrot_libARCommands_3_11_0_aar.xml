@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.parrot:libARCommands:3.11.0@aar">
+    <CLASSES>
+      <root url="file:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/a85c17a8add6045ea9ec5e2629af3f9c/res" />
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/a85c17a8add6045ea9ec5e2629af3f9c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c323d323adadd09856522b22d7a09cf8/transformed/libARCommands-3.11.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c323d323adadd09856522b22d7a09cf8/transformed/libARCommands-3.11.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARCommands/3.11.0/e4d20dc165df30b53f4c8a693d90fe8978302c24/libARCommands-3.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/modules-2/files-2.1/com.parrot/libARCommands/3.11.0/64ac6aca12ba8382d8e40f831e321a43fae3c0de/libARCommands-3.11.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARCommands/3.11.0/64ac6aca12ba8382d8e40f831e321a43fae3c0de/libARCommands-3.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:transition:25.1.1@aar">
+    <CLASSES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/e1903b589fcba83170cd4e41596f55d9/jars/classes.jar!/" />
+      <root url="file:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/e1903b589fcba83170cd4e41596f55d9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5f2eb3cb4b70506f0a51cb83b6ff9707/transformed/transition-25.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f2eb3cb4b70506f0a51cb83b6ff9707/transformed/transition-25.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f2eb3cb4b70506f0a51cb83b6ff9707/transformed/transition-25.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/transition/25.1.1/84e713a48e4aa2d0d3c3ee00df5b943ce522dcd0/transition-25.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/modules-2/files-2.1/com.android.support/transition/25.1.1/461efc99b3fcb8c7acbe1367f185897434455b1e/transition-25.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/transition/25.1.1/461efc99b3fcb8c7acbe1367f185897434455b1e/transition-25.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

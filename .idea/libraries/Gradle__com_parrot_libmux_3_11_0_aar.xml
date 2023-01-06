@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.parrot:libmux:3.11.0@aar">
+    <CLASSES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/775aa9ad103b21a46271bc51bf54565d/jars/classes.jar!/" />
+      <root url="file:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/775aa9ad103b21a46271bc51bf54565d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fb9e9db56b256bf0e7d2e816c8615714/transformed/libmux-3.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fb9e9db56b256bf0e7d2e816c8615714/transformed/libmux-3.11.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libmux/3.11.0/3f88e6a2fccf6fce4c16b7dd4c7350f26cd3ad7/libmux-3.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/modules-2/files-2.1/com.parrot/libmux/3.11.0/a46ac77eb3d5582161ab1910d48b909a39868832/libmux-3.11.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libmux/3.11.0/a46ac77eb3d5582161ab1910d48b909a39868832/libmux-3.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

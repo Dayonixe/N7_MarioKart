@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.parrot:libARStream2:3.11.0@aar">
+    <CLASSES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/65d38324648d4cff7271ab4a21fcfa9c/jars/classes.jar!/" />
+      <root url="file:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/65d38324648d4cff7271ab4a21fcfa9c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cb515addb2c2b812ecc01e89c19b7e3c/transformed/libARStream2-3.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb515addb2c2b812ecc01e89c19b7e3c/transformed/libARStream2-3.11.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARStream2/3.11.0/8fd5c5cb40b46ac269a6d4bc8d747e04738484c6/libARStream2-3.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/modules-2/files-2.1/com.parrot/libARStream2/3.11.0/debaf1a389ba2cf2ba870b2d538d004fe9529774/libARStream2-3.11.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARStream2/3.11.0/debaf1a389ba2cf2ba870b2d538d004fe9529774/libARStream2-3.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

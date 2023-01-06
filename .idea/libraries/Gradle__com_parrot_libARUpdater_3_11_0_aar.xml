@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.parrot:libARUpdater:3.11.0@aar">
+    <CLASSES>
+      <root url="file:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/122b4e1cfe579b9bea6b033836ecb7ae/res" />
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/122b4e1cfe579b9bea6b033836ecb7ae/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6df29dd767f1c8ea29bd7a553f4faa5a/transformed/libARUpdater-3.11.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6df29dd767f1c8ea29bd7a553f4faa5a/transformed/libARUpdater-3.11.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARUpdater/3.11.0/50e2a887f0117b21ecdb7088c14ace250d2c64eb/libARUpdater-3.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/modules-2/files-2.1/com.parrot/libARUpdater/3.11.0/439a311d94d79b4594f8ac20a8bd2deb64519023/libARUpdater-3.11.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARUpdater/3.11.0/439a311d94d79b4594f8ac20a8bd2deb64519023/libARUpdater-3.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

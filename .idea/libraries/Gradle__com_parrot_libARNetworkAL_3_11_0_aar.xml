@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.parrot:libARNetworkAL:3.11.0@aar">
+    <CLASSES>
+      <root url="file:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/362674e6a9e38b6850f1f3ca83152f4d/res" />
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/transforms-2/files-2.1/362674e6a9e38b6850f1f3ca83152f4d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/43bd2e1ad83adc90c12583e5cc1bde56/transformed/libARNetworkAL-3.11.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/43bd2e1ad83adc90c12583e5cc1bde56/transformed/libARNetworkAL-3.11.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARNetworkAL/3.11.0/594f1cf5280a636744a8f15865fa1ddf477e34ec/libARNetworkAL-3.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///mnt/nosave/kjaffres/.gradle/caches/modules-2/files-2.1/com.parrot/libARNetworkAL/3.11.0/d4046b4a1452dcac38799a6126461f5f898b901f/libARNetworkAL-3.11.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARNetworkAL/3.11.0/d4046b4a1452dcac38799a6126461f5f898b901f/libARNetworkAL-3.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
