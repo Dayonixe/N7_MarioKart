@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MarioKartBis</string>
+    <string name="tour">tour</string>
+    <string name="checkpoint">checkpoint</string>
+    <string name="d_but_de_la_course">Début de la course</string>
+    <string name="passage_d_un_checkpoint">Passage d\'un checkpoint</string>
+    <string name="meilleur_temps">Meilleur tour</string>
+    <string name="temps_tour_courant">Temps tour courant</string>
+    <string name="temps_des_secteurs">Temps des secteurs</string>
+    <string name="count_lap">Count Lap</string>
+    <string name="count_checkpoint">Count Checkpoint</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
